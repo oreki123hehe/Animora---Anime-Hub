@@ -1,0 +1,33 @@
+{
+  "Meta": {
+    "title": "Animora – Portal Anime",
+    "description": "Jadwal rilis anime, katalog, dan tautan tonton resmi dalam satu tempat."
+  },
+  "Nav": { "home": "Beranda", "language": "Bahasa" },
+  "Home": {
+    "schedule": "Jadwal rilis",
+    "scheduleHint": "Jam tayang mengikuti zona waktumu",
+    "noAiring": "Belum ada rilis di hari ini.",
+    "episode": "Episode {n}",
+    "catalog": "Katalog",
+    "count": "{n} judul",
+    "searchPlaceholder": "Cari judul anime",
+    "search": "Cari",
+    "all": "Semua",
+    "noResults": "Tidak ada judul yang cocok. Coba kata kunci atau genre lain.",
+    "loadError": "Data anime gagal dimuat. Muat ulang halaman beberapa saat lagi."
+  },
+  "Detail": {
+    "back": "Kembali",
+    "episodes": "{n} episode",
+    "unknownEpisodes": "Jumlah episode belum diketahui",
+    "nextEpisode": "Episode {n} tayang berikutnya",
+    "watchOn": "Tonton di {site}",
+    "noLinks": "Belum ada tautan tonton resmi untuk judul ini.",
+    "watchHeading": "Tonton secara resmi",
+    "notFound": "Judul tidak ditemukan."
+  },
+  "Footer": {
+    "credit": "Data dari AniList. Animora tidak menyimpan atau menyajikan video bajakan."
+  }
+}

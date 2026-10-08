@@ -1,0 +1,33 @@
+{
+  "Meta": {
+    "title": "Animora – Anime Hub",
+    "description": "Anime release schedule, catalog, and official watch links in one place."
+  },
+  "Nav": { "home": "Home", "language": "Language" },
+  "Home": {
+    "schedule": "Release schedule",
+    "scheduleHint": "Times follow your time zone",
+    "noAiring": "Nothing airs on this day.",
+    "episode": "Episode {n}",
+    "catalog": "Catalog",
+    "count": "{n} titles",
+    "searchPlaceholder": "Search anime titles",
+    "search": "Search",
+    "all": "All",
+    "noResults": "No matching titles. Try another keyword or genre.",
+    "loadError": "Couldn't load anime data. Reload the page in a moment."
+  },
+  "Detail": {
+    "back": "Back",
+    "episodes": "{n} episodes",
+    "unknownEpisodes": "Episode count not announced yet",
+    "nextEpisode": "Episode {n} airs next",
+    "watchOn": "Watch on {site}",
+    "noLinks": "No official watch links for this title yet.",
+    "watchHeading": "Watch officially",
+    "notFound": "Title not found."
+  },
+  "Footer": {
+    "credit": "Data from AniList. Animora does not host or serve pirated video."
+  }
+}
